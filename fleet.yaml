@@ -1,3 +1,3 @@
-defaultNamespace: bot_kube
+defaultNamespace: botkube
 helm:
   chart: https://charts.botkube.io/botkube-v1.13.0.tgz
