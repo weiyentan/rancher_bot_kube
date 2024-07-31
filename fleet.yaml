@@ -1,3 +1,5 @@
 defaultNamespace: botkube
 helm:
-  chart: https://charts.botkube.io/botkube-v1.13.0.tgz
+  repo: https://charts.botkube.io/
+  chart: botkube
+  version: 1.13.0
